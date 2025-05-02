@@ -22,4 +22,4 @@ You can find the code for the entire project in the src folder.
 
 A comprehensive report detailing the model architecture, training process, evaluation metrics, and performance graphs is available in `report_phase#.pdf`.
 
-For questions or feedback, please [email](mailto:gayatriwalke@gmail.com).
+For questions or feedback, please [email](mailto:shriganeshlokapure6@gmail.com).
